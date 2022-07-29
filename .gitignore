@@ -5,6 +5,7 @@
 *.pyc
 ._*
 .nfs.*
+.idea
 [56789a].out
 *~
 *.orig
